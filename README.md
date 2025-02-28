@@ -3,7 +3,7 @@
 ###
 
 <div align="center">
-  <img height="200" src="https://raw.githubusercontent.com/QuocTuan-SGU/Profile-CV/refs/heads/main/QT_C3.png"  />
+  <img height="500" src="https://raw.githubusercontent.com/QuocTuan-SGU/Profile-CV/refs/heads/main/QT_C3.png"  />
 </div>
 
 ###
